@@ -1,2 +1,2 @@
 # tindog
-fake website lol
+fake website using Bootstrap
